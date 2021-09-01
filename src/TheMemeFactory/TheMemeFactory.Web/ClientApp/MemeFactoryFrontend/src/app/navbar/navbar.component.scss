@@ -1,0 +1,8 @@
+@import '../../assets/resources/theme-var.scss';
+
+.navbar-container {
+    height: 5rem;
+    background-color: $bg-primary-lighter;
+    border-top: 0.12rem solid $bg-primary-border-lighter;
+    border-bottom: 0.12rem solid $bg-primary-border-darker;
+}
