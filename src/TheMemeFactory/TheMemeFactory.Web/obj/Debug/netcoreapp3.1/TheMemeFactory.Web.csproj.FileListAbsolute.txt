@@ -1,0 +1,10 @@
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\bin\Debug\netcoreapp3.1\TheMemeFactory.Web.exe
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\obj\Debug\netcoreapp3.1\TheMemeFactory.Web.csprojAssemblyReference.cache
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\obj\Debug\netcoreapp3.1\TheMemeFactory.Web.AssemblyInfoInputs.cache
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\obj\Debug\netcoreapp3.1\TheMemeFactory.Web.AssemblyInfo.cs
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\obj\Debug\netcoreapp3.1\TheMemeFactory.Web.RazorTargetAssemblyInfo.cache
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\obj\Debug\netcoreapp3.1\staticwebassets\TheMemeFactory.Web.StaticWebAssets.Manifest.cache
+C:\Users\ryane\source\repos\TheMemeFactory\src\TheMemeFactory\TheMemeFactory.Web\obj\Debug\netcoreapp3.1\staticwebassets\TheMemeFactory.Web.StaticWebAssets.xml
